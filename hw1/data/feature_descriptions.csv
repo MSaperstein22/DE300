@@ -1,0 +1,21 @@
+Column,Description
+TARGET,"Target variable (1 - client with payment difficulties: he/she had late payment more than X days on at least one of the first Y installments of the loan in our sample, 0 - all other cases)"
+CNT_CHILDREN,Number of children the client has
+CNT_FAM_MEMBERS,How many family members does client have
+"CODE_GENDER,Gender of the client",
+FLAG_OWN_CAR,Flag if the client owns a car
+FLAG_OWN_REALTY,Flag if client owns a house or flat
+AMT_INCOME_TOTAL,Income of the client
+NAME_INCOME_TYPE,"Clients income type (businessman, working, maternity leave,…)"
+AMT_CREDIT,Credit amount of the loan
+TOTALAREA_MODE,"Normalized information about building where the client lives, What is average (_AVG suffix), modus (_MODE suffix), median (_MEDI suffix) apartment size, common area, living area, age of building, number of elevators, number of entrances, state of the building, number of floor"
+HOUSETYPE_MODE,"Normalized information about building where the client lives, What is average (_AVG suffix), modus (_MODE suffix), median (_MEDI suffix) apartment size, common area, living area, age of building, number of elevators, number of entrances, state of the building, number of floor"
+EXT_SOURCE_1,Normalized score from external data source
+DAYS_EMPLOYED,How many days before the application the person started current employment
+DAYS_BIRTH,Client's age in days at the time of application
+EXT_SOURCE_2,Normalized score from external data source
+EXT_SOURCE_3,Normalized score from external data source
+"NAME_EDUCATION_TYPE,Level of highest education the client achieved",
+AMT_REQ_CREDIT_BUREAU_YEAR,Number of enquiries to Credit Bureau about the client one day year (excluding last 3 months before application)
+NAME_HOUSING_TYPE,"What is the housing situation of the client (renting, living with parents, ...)"
+NAME_FAMILY_STATUS,Family status of the client
