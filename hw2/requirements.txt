@@ -1,0 +1,7 @@
+pandas
+numpy
+boto3
+requests
+beautifulsoup4
+scikit-learn
+xgboost
