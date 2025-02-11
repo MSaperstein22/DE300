@@ -1,4 +1,4 @@
-Instructions for running etl_script.p:
+Instructions for running etl_script.py:
 
 1. Navigate to the hw2 folder with all necessary files.
 2. Once Docker is running, run the following command: docker build -t etl-heart-disease .
