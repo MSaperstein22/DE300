@@ -1,3 +1,5 @@
+Note: I used my Joker on this assignment.
+
 Instructions for running script.py:
 
 Navigate to the hw3 folder with all necessary files.
